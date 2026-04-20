@@ -115,12 +115,12 @@ In Home view, all the views button will be available. User will land on specific
 ![Info](Info.png)
 
 - Finance View
-- Sales View
-- Marketing View
-- Supply chain View
-- Executive View
-- Stakeholder Request
-- Support
+![Info](Info.png)
+- Sales View ![Info](Info.png)
+- Marketing View ![Info](Info.png)
+- Supply chain View ![Info](Info.png)
+- Executive View ![Info](Info.png)
+- Support ![Info](Info.png)
 
 
 ![Dashboard](Info.png)
