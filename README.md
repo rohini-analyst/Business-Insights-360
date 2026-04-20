@@ -121,8 +121,10 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 
+![Dashboard](dashboard.png)
 
-you can find the full report file here : [Report]()
+
+you can find the full report file here : [Report](https://tinyurl.com/mvmuj5p8)
 
 
 ## Project Outcome
