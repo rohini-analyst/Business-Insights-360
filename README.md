@@ -111,8 +111,8 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
-#Info
-![Info]()
+# Info
+![Info](Info.png)
 
 - Finance View
 - Sales View
@@ -123,7 +123,7 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 
-![Dashboard](dashboard.png)
+![Dashboard](Info.png)
 
 
 you can find the full report file here : [Report](https://tinyurl.com/mvmuj5p8)
