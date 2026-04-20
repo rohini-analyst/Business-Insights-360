@@ -114,18 +114,25 @@ In Home view, all the views button will be available. User will land on specific
 # Info
 ![Info](Info.png)
 
-- Finance View
-![Info](Info.png)
-- Sales View
+# Finance View
+![Info](FinanceView.png)
+
+# Sales View
 ![Info](SalesView.png)
-- Marketing View
+
+# Marketing View
 ![Info](MarketingView.png)
-- Supply chain View ![Info](SupplyChain.png)
-- Executive View ![Info](Info.png)
-- Support ![Info](Info.png)
+
+# Supply chain View 
+![Info](SupplyChain.png)
+
+# Executive View 
+![Info](ExecutiveView.png)
+
+# Support
+- ![Info](Support.png)
 
 
-![Dashboard](Info.png)
 
 
 you can find the full report file here : [Report](https://tinyurl.com/mvmuj5p8)
