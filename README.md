@@ -127,7 +127,7 @@ Dashboard is built based on stakeholder mockups and business requirements
 <img src="Dashboard_SS/All_SS/Info.png" width="800"/>
 
 ### 💰 Finance View
-
+ 
 <img src="Dashboard_SS/All_SS/FinanceView.png" width="800"/>
 
 ### 📊 Sales View
