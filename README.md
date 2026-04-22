@@ -10,7 +10,7 @@ AtliQ Hardware is a rapidly growing company that has decided to implement data a
 
 This project focuses on answering key stakeholder questions across domains like finance, sales, marketing, and supply chain.
 
-🔗 **Live Report:** https://tinyurl.com/mvmuj5p8
+🔗 **Live Report:(https://tinyurl.com/mvmuj5p8)** 
 
 ---
 
