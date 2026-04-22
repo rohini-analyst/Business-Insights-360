@@ -154,7 +154,7 @@ Dashboard is built based on stakeholder mockups and business requirements
 
 ## 📎 Report Access
 
-🔗 https://tinyurl.com/mvmuj5p8
+[🔗](https://tinyurl.com/mvmuj5p8)
 
 ---
 
